@@ -35,3 +35,5 @@ Implement forecasting logic for sales & discount trends
 **Anjali Yadav**
 **📧 Email: Aluy7021@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/anjali-yadav-34a46a384/**
+<img width="1223" height="680" alt="image" src="https://github.com/user-attachments/assets/6d4dd792-057b-4aa0-be6a-2acb0900719e" />
+
